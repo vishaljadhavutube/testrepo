@@ -1,1 +1,2 @@
+print("BUY")
 print("Hi")
